@@ -15,3 +15,18 @@ You can test the application with running difference instance of virtualDevice.p
 
 run it with "python virtualDevice.py"
 
+
+
+#To run the client code in esp8266 module
+
+Setup the environment following instructions on http://www.esp8266.com/viewtopic.php?f=9&t=820
+
+import the project "wifi-sta-tcp-client" to eclipse
+
+set portNumbers and IP addresses inside the "user_config.h" file
+
+clean,build and flash the module with this code
+
+
+
+

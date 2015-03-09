@@ -10,7 +10,7 @@ var toleranceInterval = 5000;
 var db = mongojs('devicesdb', ['devices']);
 
 
-var HOST = '127.0.0.1';
+var HOST = '172.20.7.62';
 var PORT = 6969;
 
 
